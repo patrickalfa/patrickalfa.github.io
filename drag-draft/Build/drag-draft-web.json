@@ -1,0 +1,13 @@
+{
+"companyName": "PatrickAlfa",
+"productName": "Drag&Draft",
+"dataUrl": "drag-draft-web.data.unityweb",
+"asmCodeUrl": "drag-draft-web.asm.code.unityweb",
+"asmMemoryUrl": "drag-draft-web.asm.memory.unityweb",
+"asmFrameworkUrl": "drag-draft-web.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
