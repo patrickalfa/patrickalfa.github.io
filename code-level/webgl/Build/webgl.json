@@ -1,9 +1,9 @@
 {
 "companyName": "DefaultCompany",
 "productName": "Code-Level",
-"dataUrl": "code-level-web.data.unityweb",
-"wasmCodeUrl": "code-level-web.wasm.code.unityweb",
-"wasmFrameworkUrl": "code-level-web.wasm.framework.unityweb",
+"dataUrl": "webgl.data.unityweb",
+"wasmCodeUrl": "webgl.wasm.code.unityweb",
+"wasmFrameworkUrl": "webgl.wasm.framework.unityweb",
 "TOTAL_MEMORY": 268435456,
 "graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
 "webglContextAttributes": {"preserveDrawingBuffer": false},
